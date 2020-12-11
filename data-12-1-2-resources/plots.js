@@ -9,4 +9,3 @@ var layout = {
     title: "'Pie' Chart",
 };
 Plotly.newPlot("plotArea", data, layout);
-   
